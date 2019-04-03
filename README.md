@@ -23,6 +23,6 @@ Here, we're going to showcase some of the worst practice of companies, developer
 
 ## 🆘 Solutions
 
-### Videogame
+### 🎮 Videogame
 
 * Union : [GameWorkersUnit](https://www.gameworkersunite.org/) and [STJV](https://www.stjv.fr/en/) (FR)
