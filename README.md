@@ -1,5 +1,9 @@
 # 👨‍💻 Developers of all kind, unite !
 
+![GitHub issues](https://img.shields.io/github/issues/OverCodeTech/dev-job-blacklist.svg)
+![GitHub](https://img.shields.io/github/license/OverCodeTech/dev-job-blacklist.svg)
+
+
 Here, we're going to showcase some of the worst practice of companies, developers or events, so other developers would be aware of what's going on.
 
 ## 📜 Rules : 
